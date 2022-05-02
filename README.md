@@ -1,7 +1,7 @@
 PORPHYRY – Corpus analyses confrontation
 ========================================
 
-Contact: <aurelien.benel@utt.fr>
+Contact: <aurelien.benel@utt.fr> 
 
 Home page: <https://github.com/Hypertopic/Porphyry>
 
